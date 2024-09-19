@@ -1,0 +1,10 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "sqlite_wsl",
+            "database": "\\\\wsl.localhost\\Ubuntu\\home\\dinner_rolls\\example.db"
+        }
+    ]
+}
